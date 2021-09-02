@@ -1,0 +1,14 @@
+main {
+  max-height: 40vh;
+  display: flex;
+  margin-top: 20vh;
+  align-items: baseline;
+}
+
+.column {
+  background-color: #39bf5a;
+  border: 1px solid #777;
+  height: 32vh;
+  width: 40px;
+  margin-right: 2px;
+}
